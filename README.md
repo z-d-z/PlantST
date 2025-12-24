@@ -8,14 +8,15 @@
 - **Spatial Domain Identification**: Accurately partitions distinct tissue regions and delineates sharp boundaries (e.g., cambium vs. xylem) using graph contrastive learning.
 - **Trajectory Inference**: Reconstructs continuous radial gradients via spatially constrained pseudotime.
 
+## 🧩 Model Architecture
+
+The overall framework of PlantST is illustrated below:
+
+![PlantST Workflow](images/workflow.png)
+
 ## 🛠 Installation
 
 You can install the required dependencies via pip: 
 
 ```bash
 pip install -r requirements.txt
-## 🧩 Model Architecture
-
-The overall framework of PlantST is illustrated below:
-
-![PlantST Workflow](images/workflow.png)
