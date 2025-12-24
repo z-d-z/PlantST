@@ -14,3 +14,8 @@ You can install the required dependencies via pip:
 
 ```bash
 pip install -r requirements.txt
+## 🧩 Model Architecture
+
+The overall framework of PlantST is illustrated below:
+
+![PlantST Workflow](images/workflow.png)
