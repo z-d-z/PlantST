@@ -3,8 +3,6 @@
 **PlantST** is a multimodal graph learning framework tailored for plant spatial transcriptomics. It effectively deciphers spatial domains and reconstructs radial developmental trajectories by leveraging both gene expression and morphological information.
 
 ## 🚀 Key Features
-
-
 - **Topology-Adaptive**: Designed for complex plant geometries (e.g., vascular rings, floral organs).
 - **Multimodal**: Integrates histology images (H&E) and gene expression.
 - - **Spatial Domain Identification**: Accurately partitions distinct tissue regions and delineates sharp boundaries (e.g., cambium vs. xylem) using graph contrastive learning.
