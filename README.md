@@ -12,7 +12,7 @@
 
 The overall framework of PlantST is illustrated below:
 
-![PlantST Workflow](images/workflow.png)
+![PlantST Workflow](image/workflow.png)
 
 ## 🛠 Installation
 
